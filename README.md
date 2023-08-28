@@ -1,10 +1,9 @@
-
-<p align="center" textsize="30px"><samp><b> Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </b></samp></p>
+<p align="center"><b> Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></b></p>
 <p align="center"><h1 align="center"><samp> I am Mahan PoorYazdanKhah </samp></h1></p>
-<p align="center"><h4 align="justify"><samp> Experienced Flutter Developer with a strong passion for learning and staying up-to-date with the latest technologies. Committed to delivering exceptional results, I thrive on challenges and excel in collaborative team environments. Holding a degree in software engineering from a prestigious institution, I actively engage in continuous learning and embrace creativity to explore new possibilities. With excellent sociability and a focus on teamwork, I strive to push the boundaries of innovation. Seeking a permanent role to contribute expertise, expand knowledge, and make a meaningful impact in the programming world. </samp></h4></p>
+<p align="center"><h4 align="justify"><samp> Experienced Flutter Developer with a strong passion for learning and staying up-to-date with the latest technologies. Committed to delivering expected results, I thrive on challenges and excel in collaborative team environments. Holding a degree in software engineering from a prestigious institution, I actively engage in continuous learning and embrace creativity to explore new possibilities. With excellent sociability and a focus on teamwork, I strive to push the boundaries of innovation. Seeking a permanent role to contribute expertise, expand knowledge, and make a meaningful impact in the programming world. </samp></h4></p>
 
 - 🔭 I’m currently working on flutter projects.
-- 🌱 I’m currently learning flutter and English speaking.
+- 🌱 I’m currently learning English speaking.
 - 🚀 Supporting the growth of the Flutter community.
 - 💬 Ask me about anything.
 - 📫 How to reach me:
@@ -13,7 +12,7 @@
 [![Firebase](https://img.shields.io/badge/Telegram-ffcb2c?style=flat-square&logo=telegram&logoColor=white&color=26A5E4)](https://t.me/mahanpyk)
 
 ##
-### Programming Languges
+### Programming Languages
 
 ![My Skills](https://skillicons.dev/icons?i=dart,java,kotlin&theme=dark)
 
