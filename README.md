@@ -19,7 +19,7 @@
 ##
 ### Tools and Technologies
 
-![My Tools](https://skillicons.dev/icons?i=flutter,git,firebase,graphql,sentry,androidstudio,vscode,figma,xd,postman&theme=dark)
+![My Tools](https://skillicons.dev/icons?i=flutter,git,firebase,graphql,sentry,androidstudio,vscode,postman&theme=dark)
 
 ##
 ### Connect with me
